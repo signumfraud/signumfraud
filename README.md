@@ -4,7 +4,7 @@ Hi, I’m @signumfraud
 - I’m looking to collaborate on philosophy.
 - How to reach me ...
 - Pronouns: I am.
-- Fun fact: I am interpreting dreams.
+- Fun fact: I am *NOT* interpreting dreams.
 
 <!---
 signumfraud/signumfraud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
